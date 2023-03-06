@@ -75,4 +75,4 @@ if clicked is not None:
 
 # Final message
 st.info('Thank you for interacting with this model. '
-			 'You can find the source code on [my GitHub 👾](https://github.com/VasilyBakshaev/)')
+			 'You can find the source code on [my GitHub 👾](https://github.com/VasilyBakshaev/Damaged_car_detection)')
