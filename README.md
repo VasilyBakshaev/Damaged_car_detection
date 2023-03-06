@@ -11,7 +11,7 @@ Main files:
 - `streamlit_app.py` - streamlit application
 - `telegram_app.py` - Telegram bot application
 
-You can interact with deployed model [on streamlit 👾](https://google.com)
+You can interact with deployed model [on streamlit 👾](https://damaged-car.streamlit.app/)
 
 ### App work example
 |streamlit|telegram|
